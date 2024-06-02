@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python Debugger: App.py",
+            "name": "Python Debugger: app.py",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/App/App.py",
+            "program": "${workspaceFolder}/App/app.py",
             "console": "integratedTerminal"
         }
     ]
