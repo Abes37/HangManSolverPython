@@ -1,4 +1,4 @@
-from HangMan import Hangman
+from hangman import Hangman
 
 def main():
     word_to_guess = "hangman"
